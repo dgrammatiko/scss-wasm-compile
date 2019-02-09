@@ -4,7 +4,7 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "run": "npx http-server"
+    "serve": "npx http-server"
   },
   "author": "",
   "license": "ISC",

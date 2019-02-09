@@ -9,7 +9,7 @@
 
 ### Run it
 
-`npm run run`
+`npm run serve`
 or
 `npx http-server`
 
