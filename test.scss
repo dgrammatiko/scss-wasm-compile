@@ -1,0 +1,6 @@
+$someVar: 123px;
+
+.body { 
+  width: $someVar;
+  display: block
+}
