@@ -9,7 +9,7 @@
   "author": "",
   "license": "ISC",
   "devDependencies": {
-    "http-server": "0.11.1",
+    "http-server": "0.12.0",
     "sass.js": "0.11.1"
   }
 }
